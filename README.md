@@ -3,6 +3,7 @@
 This project focuses on optimizing energy resource distribution for environmental sustainability using **Evolutionary Algorithms (EA)** and **SHapley Additive exPlanations (SHAP)** for interpretability. The project involves fine-tuning the optimization process by leveraging renewable energy sources while balancing CO2 emissions and overall electricity generation.
 
 **Key observation**: The evolutionary algorithm for optimizing global energy distribution, achieved a best fitness score of **12821.54**. Through SHAP analysis, critical features such as **Electricity Generation (TWh)** (with a SHAP value of **498.38**) and **Solar PV (TWh)** (SHAP value of **0.45**) were identified as key contributors to the decision-making process.
+![shap analysis](shap_analysis.jpg)
 
 ## Requirements
 
