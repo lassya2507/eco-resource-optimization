@@ -9,9 +9,10 @@ This project focuses on optimizing energy resource distribution for environmenta
 2)https://www.kaggle.com/datasets/iannjuguna/energy-data-since-1990
 3)https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
 
-After going through each datasets, they were first cleaned and standardized. Then after handled missing values they were merged on common attributes such as year, country, energy production, CO2 emissions, etc. This resulted in a comprehensive, unified dataset containing all key features, which provided a holistic view of global energy generation, environmental impact, and renewable energy capacities for optimization.
+After going through each datasets, they were first cleaned and standardized. Then after handled missing values they were merged on common attributes such as year, country, energy production, CO2 emissions, etc. This resulted in a comprehensive, unified dataset **(scaled_merged_dataset.csv)** containing all key features, which provided a holistic view of global energy generation, environmental impact, and renewable energy capacities for optimization.
 
 ## Results
+All the results and visualizing observations graph can be fount at main.ipynb
 
 **Fitness Score:** Achieved a best fitness score of **12821.54**
 
